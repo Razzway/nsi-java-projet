@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(83, 83, 83, 0.486);
+    font-family: Segoe UI, sans-serif;
+}
+
+.main {
+    background-color: rgba(20, 20, 20, 0.932);
+    border-top: 1px solid rgba(20, 20, 20, 0.932);
+    border-bottom: 2mm ridge rgba(155, 32, 255, 0.6);
+
+    color:white;
+    font-family: Segoe UI, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+.main h1 {
+    font-size: 40px;
+}
+
+o {color: rgb(255, 94, 30); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
+
+y {color: rgb(255, 190, 49); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
+
+rd {color: rgb(238, 18, 18); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
