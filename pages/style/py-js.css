@@ -22,23 +22,6 @@ body {
     color: green;
 }
 
-.justify {
-    margin:10px;
-    width: 600px;
-    padding: 5px 5px;
-    background-color : rgb(121, 37, 255);
-    border-radius: 20px;
-    text-align: center;
-}
-
-.justify h1 {
-    font-size: 20px;
-}
-
-.justify p {
-    font-size: 15px;
-}
-
 hr {
     border-color: rgb(160, 10, 230);
 }
@@ -57,9 +40,9 @@ hr {
 }
 
 thead tr {
-    background-color: rgba(89, 17, 255, 0.877);
+    background-color: rgba(155, 6, 255, 0.932);
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
     color: #fff;
-    text-align: left;
 }
 
 th, td {
@@ -69,8 +52,13 @@ th, td {
 }
 
 tbody tr, td, th {
-    border: 1px solid rgb(145, 145, 145);
+    border: 2px solid rgb(220, 200, 236);
 }
+
+.table-style or {color: rgb(255, 94, 30); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
+.table-style yl {color: rgb(255, 190, 49); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
+.table-style rd {color: rgb(238, 18, 18); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
+.table-style gr {color: rgb(120, 255, 43); text-shadow: 1px 1px 2px rgb(0, 0, 0)}
 
 tbody tr:nth-child(even){
     background-color: #1b1b1b8a;
